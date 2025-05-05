@@ -12,7 +12,7 @@ KPMG-Data-Analysis/
 │   ├── Transactions
 │   └── New_Customer_List
 ├── Analysis/
-│   ├── MS_Excel_Submission
+│   ├── MS_Excel_Solution
 │   └── KPMG_Data_Analysis_Report.pdf
 └── README.md
 ```

@@ -46,14 +46,6 @@ KPMG-Data-Analysis/
    - Affluent segment has highest average CLV ($68,159)
    - Financial Services and Manufacturing industries drive higher CLV
 
-## How to Use This Project
-1. Clone the repository:
-   ```
-   git clone https://github.com/yourusername/KPMG-Data-Analysis.git
-   ```
-2. Open the Excel workbook (`Analysis/KPMG_Analysis_Workbook.xlsx`) to explore the analysis
-3. Review the full report (`Analysis/KPMG_Data_Analysis_Report.pdf`) for detailed findings
-
 ## Skills Demonstrated
 - Data cleaning and preparation in Excel
 - Advanced Excel functions and PivotTables

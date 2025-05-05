@@ -6,16 +6,14 @@ This project analyzes customer demographics, transactions, and new customer data
 ## Project Structure
 ```
 KPMG-Data-Analysis/
-├── Data/
-│   ├── Customer_Address.xlsx
-│   ├── Customer_Demographics.xlsx
-│   ├── Transactions.xlsx
-│   └── New_Customer_List.xlsx
+├── Data (KPMG Final Project Dataset.xlsx)
+│   ├── Customer_Address
+│   ├── Customer_Demographics
+│   ├── Transactions
+│   └── New_Customer_List
 ├── Analysis/
-│   ├── KPMG_Analysis_Workbook.xlsx
+│   ├── MS_Excel_Submission
 │   └── KPMG_Data_Analysis_Report.pdf
-├── Documentation/
-│   └── Project_Requirements.pdf
 └── README.md
 ```
 
